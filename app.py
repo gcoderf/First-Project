@@ -5,3 +5,5 @@ r = input("Masukkan jari-jari lingkaran: ")
 luas = luas_lingkaran(int(r))
 
 print('Luasnya: {}'.format(luas))
+
+#AFIF
